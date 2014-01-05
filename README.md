@@ -1,7 +1,7 @@
 meteor-sass-bootstrap
 =====================
 
-This is a meteor boilerplate including sass bootstrap initialized with compass. Great for jumpstarting apps
+This is a meteor boilerplate including sass bootstrap initialized with compass. Great for jumpstarting apps. Many thanks to [kevohagan](https://github.com/kevohagan/meteor-sass-bootstrap) for the meteor file structure inspiration and original project setup.
 
 
 ### Basic Setup
