@@ -11,24 +11,16 @@ Router.configure({
   }
 });
 
-
-
 Router.map(function () {
 
   this.route('home', {
     path:'/'
   });
 
-  this.route('contact',{
-    path: '/contact'
-  });
+  this.route('contact');
 
-  this.route('portfolio',{
-    path: '/portfolio'
-  });
+  this.route('portfolio');
 
-  this.route('team',{
-    path: '/team'
-  });
+  this.route('team');
 
 });
